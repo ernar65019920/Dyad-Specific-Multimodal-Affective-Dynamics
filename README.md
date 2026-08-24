@@ -1,2 +1,4 @@
 # Dyad-Specific-Multimodal-Affective-Dynamics
-Dyad-Specific Multimodal Affective Dynamics: Integrating Temporal Synchrony and Probabilistic Consistency
+Dyad-Specific Multimodal Affective Dynamics: Integrating
+Temporal Cross-Modal Consistency and Probabilistic
+Agreement
